@@ -1,1 +1,0 @@
-Upload the images you want to share to this folder.

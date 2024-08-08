@@ -13,4 +13,4 @@ This code could be used for promoting a product or announcing an event, for exam
 
 Here it is used to share screenshots from the movie Taxi Driver. [Click](https://botsin.space/@taxidriverframes) to access the bot!
 
-## If you want to know more about this project, you should read [my blog post]()!
+## If you want to know more about this project, you should read [my blog post](https://dev.to/tahayagizguler/mastadon-bot-with-aws-lambda-s3-cloudwatch-and-ssm-2bmf)!
